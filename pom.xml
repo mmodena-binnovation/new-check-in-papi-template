@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>7b773883-63ca-40bc-8814-14713ce575bf</groupId>
-    <artifactId>new-check-in-papi-app</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>new-check-in-papi-template</artifactId>
+    <version>1.0.0</version>
     <packaging>mule-application</packaging>
 
-    <name>new-check-in-papi</name>
+    <name>new-check-in-papi-template</name> 
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
